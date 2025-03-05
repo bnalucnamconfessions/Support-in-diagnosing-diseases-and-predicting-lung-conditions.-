@@ -1,1 +1,1 @@
-# Support-in-diagnosing-diseases-and-predicting-lung-conditions.-
+# Support-in-diagnosing-diseases-and-predicting-lung-conditions.
